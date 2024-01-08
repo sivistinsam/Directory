@@ -1,0 +1,39 @@
+.App{
+   border:1px solid black;
+   display: flex;
+   justify-content: center;
+  
+}
+.Main{
+  border:1px solid black;
+  height: auto;
+  width: 80%;
+  border-radius: 20px;
+  
+}
+.Main h1{
+  text-align: center;
+}
+.submain{
+  border:1px solid black;
+  border-radius: 20px;
+}
+.usersDiv{
+  border:1px solid blue;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: rgb(193, 233, 233);
+  border-radius: 20px;
+  margin: 10px;
+}
+.userInfoPage{
+  border:1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+.userDetail{
+  display: flex;
+  border:1px solid black;
+  justify-content: space-between;
+}

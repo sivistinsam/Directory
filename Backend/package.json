@@ -1,0 +1,14 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "Components/server.js"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
